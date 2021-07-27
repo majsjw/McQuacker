@@ -1,8 +1,8 @@
 ### McQuacker
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=McQuacker&show_icons=true&theme=drácula )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=McQuacker&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=McQuacker//github.com/anuraghazra/github-readme-stats)
+
 
 
 
