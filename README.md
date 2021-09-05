@@ -2,6 +2,16 @@
 
 >my name of my discord is `aea#0666`
 
+<details>
+  <summary>Repositories McQuacker</summary> <br>
+  <summary>Repositories McQuacker</summary> <br>
+  QuackerWare >private skid by me A pvp client for me and friends <br>
+  QuackerWare discord <https://discord.gg/AmVBUJynEV <br>
+
+
+
+</details>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=McQuacker&show_icons=true&theme=radical)
