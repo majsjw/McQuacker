@@ -7,7 +7,7 @@
 
 
   QuackerWare >private skid by me A pvp client for me and friends <br>
-  QuackerWare discord <https://discord.gg/AmVBUJynEV <br>
+  QuackerWare discord >https://discord.gg/AmVBUJynEV <br>
   QuackerWareUser QuackerWare capes :v
 
 
