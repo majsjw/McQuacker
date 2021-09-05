@@ -6,6 +6,8 @@
 
 > Quacker WareUsers `Capes` [QuackerWareCapes](https://github.com/McQuacker/QuackerWareUsers)
 
+>Discord Server `McQuacker` [McQuackerServer](https://discord.gg/AmVBUJynEV)
+
 
 
 
