@@ -2,12 +2,6 @@
 
 >my name of my discord is `aea#0666`
 
-> ### Quacker Ware Client `private` [QuackerWare](https://github.com/McQuacker/QuackerWare-Problem)
-
-> ### Quacker WareUsers `Capes` [QuackerWareCapes](https://github.com/McQuacker/QuackerWareUsers)
-
-> ### Discord Server `McQuacker` [McQuackerServer](https://discord.gg/AmVBUJynEV)
-
 
 
 
