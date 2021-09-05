@@ -2,7 +2,7 @@
 
 >my name of my discord is `aea#0666`
 
-[click here](McQuacker/QuackerWareUsers) 
+[click here](https://github.com/McQuacker/QuackerWare-Problem)
 
 
 
